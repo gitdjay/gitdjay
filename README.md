@@ -12,5 +12,14 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+  
+  <h1>
+  Hi there! 
+  <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="40px"/>
+</h1>
 
+  <div align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.giff" width="600" height="300"/>
+</div>
+  
 </div>
