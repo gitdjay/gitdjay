@@ -29,7 +29,7 @@
 ### :man_technologist: About Me :
 I am a CSE Student and Blockchain developer with a little bit of frontend skills <img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="30"> , if you are also interested in the field and want to collaborate, connect with me.
 
-- :telescope: I’m still learnig and working on projects for building decentralised application (Dapp).
+- :telescope: I’m still learning and working on projects for building decentralised application (Dapp).
 
 - :seedling: Also exploring other stuff.
 
